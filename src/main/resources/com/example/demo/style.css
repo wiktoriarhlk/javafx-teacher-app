@@ -1,0 +1,31 @@
+
+.label {
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-background-color: #cfddd8;
+    -fx-text-fill: black;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #9bd5c0;
+    -fx-cursor: hand;
+}
+
+.button:pressed {
+    -fx-background-color: #77b79f;
+    -fx-text-fill: white;
+}
+
+.combo-box {
+    -fx-cursor: hand;
+}
+
+.table-view {
+    -fx-background-color: white;
+    -fx-border-color: #dfe6e9;
+    -fx-border-radius: 5;
+}
+
