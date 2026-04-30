@@ -1,4 +1,4 @@
-# 🖥 JavaFX — Teacher Management App
+# JavaFX — Teacher Management App
 
 Desktopowa aplikacja graficzna stworzona w JavaFX do zarządzania nauczycielami i grupami. Projekt zaliczeniowy będący poprzednikiem aplikacji Spring Boot — dane przechowywane są w pamięci (bez bazy danych).
 
